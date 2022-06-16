@@ -2,8 +2,9 @@
 <message>
     <warning>
 <<<<<<< HEAD
-       
-        Good Morning World
+        Good Morning
+=======
+        Hello World
 >>>>>>> GitWork
     <!--missing </warning> -->
 </message>
